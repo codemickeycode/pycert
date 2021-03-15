@@ -1,4 +1,4 @@
-Pillow==2.9.0
+Pillow==7.1.0
 PyPDF2==1.25.1
 argparse==1.2.1
 reportlab==3.2.0
