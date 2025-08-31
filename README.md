@@ -2,7 +2,6 @@ pycert
 ======
 
 PyCert: Automated Certificate Generator and Emailer for PyCon PH
-by @codemickeycode
 
 Developed for PyCon PH 2015, this script automates the process of creating and distributing attendance certificates. It efficiently processes a CSV file containing attendee names and emails, generates individual PDF certificates, and emails them to each participant. Due to its effectiveness, it has been utilized annually to handle certificate distribution for hundreds of attendees.
 
@@ -48,3 +47,9 @@ Add a `settings.json` in `config/` folder with the following format:
 
 ### Sending Email
 - https://realpython.com/python-send-email/#adding-attachments-using-the-email-package
+
+---
+
+## Author
+Developed by [Micaela Reyes](https://github.com/codemickeycode)  
+for PyCon PH 2015 and maintained for the PythonPH community.
